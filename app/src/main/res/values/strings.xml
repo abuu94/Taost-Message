@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcom_to_data_visualization_story_book">Welcom to Data Visualization Story Book</string>
+    <string name="click_me">Click Me</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name">Name</string>
+</resources>
