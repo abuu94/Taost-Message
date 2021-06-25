@@ -4,4 +4,6 @@
     <string name="click_me">Click Me</string>
     <string name="enter_your_name">Enter Your Name</string>
     <string name="name">Name</string>
+    <string name="todo"> TODO</string>
+
 </resources>
